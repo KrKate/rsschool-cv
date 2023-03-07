@@ -1,1 +1,1 @@
-# rsschool-cv
+https://krkate.github.io/rsschool-cv/
