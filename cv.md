@@ -4,8 +4,9 @@
 ## Information about me
 * I just finished Stage0 is RS and want to continue
 ## Skills
-*html
+* html
 * scc
-* git *github
+* git 
+* github
 * js 
 * figma
