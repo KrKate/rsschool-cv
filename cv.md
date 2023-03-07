@@ -6,7 +6,7 @@
 ## Skills
 * html
 * scc
-* git 
+* git
 * github
-* js 
+* js
 * figma
